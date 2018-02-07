@@ -17,12 +17,17 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
 <<<<<<< HEAD
+<<<<<<< HEAD
               <first_editor relative-caret-position="190">
                 <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
 =======
               <first_editor relative-caret-position="114">
                 <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
 >>>>>>> third commit in fb
+=======
+              <first_editor relative-caret-position="152">
+                <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+>>>>>>> fourth commit in fb
                 <folding />
               </first_editor>
               <second_editor />
@@ -575,16 +580,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518013109713</updated>
-      <workItem from="1518013111527" duration="137000" />
+      <workItem from="1518013111527" duration="179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="84000" />
 =======
     <option name="totallyTimeSpent" value="137000" />
 >>>>>>> third commit in fb
+=======
+    <option name="totallyTimeSpent" value="179000" />
+>>>>>>> fourth commit in fb
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -636,6 +645,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
 <<<<<<< HEAD
+<<<<<<< HEAD
           <first_editor relative-caret-position="152">
             <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             <folding />
@@ -653,6 +663,10 @@
           <first_editor relative-caret-position="114">
             <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
 >>>>>>> third commit in fb
+=======
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+>>>>>>> fourth commit in fb
             <folding />
           </first_editor>
           <second_editor />
