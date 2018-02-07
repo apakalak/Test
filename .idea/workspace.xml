@@ -19,6 +19,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
               <first_editor relative-caret-position="190">
                 <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
 =======
@@ -33,6 +34,10 @@
               <first_editor relative-caret-position="190">
                 <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
 >>>>>>> fifth commit in fb
+=======
+              <first_editor relative-caret-position="190">
+                <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+>>>>>>> b96953ea472e4b65f2ef5b5856596ba5f7129fac
                 <folding />
               </first_editor>
               <second_editor />
@@ -593,6 +598,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="84000" />
 =======
     <option name="totallyTimeSpent" value="137000" />
@@ -603,6 +609,9 @@
 =======
     <option name="totallyTimeSpent" value="188000" />
 >>>>>>> fifth commit in fb
+=======
+    <option name="totallyTimeSpent" value="188000" />
+>>>>>>> b96953ea472e4b65f2ef5b5856596ba5f7129fac
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -655,6 +664,9 @@
         <state split_layout="SPLIT">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b96953ea472e4b65f2ef5b5856596ba5f7129fac
           <first_editor relative-caret-position="152">
             <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             <folding />
@@ -669,6 +681,7 @@
           <first_editor relative-caret-position="190">
             <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
           <first_editor relative-caret-position="114">
             <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
@@ -678,6 +691,8 @@
             <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
 >>>>>>> fourth commit in fb
 =======
+=======
+>>>>>>> b96953ea472e4b65f2ef5b5856596ba5f7129fac
             <folding />
           </first_editor>
           <second_editor />
@@ -689,7 +704,10 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="190">
             <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+<<<<<<< HEAD
 >>>>>>> fifth commit in fb
+=======
+>>>>>>> b96953ea472e4b65f2ef5b5856596ba5f7129fac
             <folding />
           </first_editor>
           <second_editor />
